@@ -2,9 +2,9 @@
 # I am a Django Web Developer
 ![I am a Django Web Developer](https://avatars.githubusercontent.com/u/167792330?v=4)
 
-### Hello there! I'm Saffat , a passionate Django Web Developer with a strong foundation in creating dynamic and user-friendly web applications. With years of experience in the field, I have honed my skills in both frontend and backend development, allowing me to craft seamless and responsive websites . I am well-versed in frontend technologies such as HTML5, CSS3, Bootstrap and JavaScript, enabling me to implement pixel-perfect designs and smooth user interactions. I have experience with backend technology like Python(Django).
+##### Hello there! I'm Saffat , a passionate Django Web Developer with a strong foundation in creating dynamic and user-friendly web applications. With years of experience in the field, I have honed my skills in both frontend and backend development, allowing me to craft seamless and responsive websites . I am well-versed in frontend technologies such as HTML5, CSS3, Bootstrap and JavaScript, enabling me to implement pixel-perfect designs and smooth user interactions. I have experience with backend technology like Python(Django).
 
-Skills: Python & Django Developer , Django Rest Framework Developer |Django Web Development | HTML5|Bootsrap5| Backend Developer
+#### Skills: Python & Django Developer , Django Rest Framework Developer |Django Web Development | HTML5|Bootsrap5| Backend Developer
 
 - 🔭 I’m currently working on Django Web Development 
 - 🌱 I’m currently learning Django ,API, Web Sockets 
